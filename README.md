@@ -27,6 +27,7 @@ Dataset yang digunakan dalam proyek ini adalah `product_reviews_dirty.csv`, yang
 * `rating`: Rating bintang (1-5) yang diberikan oleh pelanggan.
 
 Dataset awal bersifat "kotor" dan mengandung sekitar 1000 baris data ulasan yang kosong, yang kemudian dibersihkan pada tahap pra-pemrosesan.
+Dataset yang digunakan diambil dari kaggle, untuk linknya berikut : https://www.kaggle.com/code/kazari/indonesia-e-commerce-review-rating-prediction/?select=product_reviews_dirty.csv
 
 ## 🛠️ Teknologi yang Digunakan
 
